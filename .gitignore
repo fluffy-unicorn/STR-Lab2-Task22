@@ -7,3 +7,6 @@ klee/**/assembly.ll
 klee/**/run.istats
 klee_training/**/assembly.ll
 klee_training/**/run.istats
+
+#
+*.zip
