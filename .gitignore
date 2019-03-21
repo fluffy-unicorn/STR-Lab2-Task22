@@ -1,0 +1,9 @@
+# queue files
+afl/**/queue/**
+afl_training/**/queue/**
+
+# klee huge files
+klee/**/assembly.ll
+klee/**/run.istats
+klee_training/**/assembly.ll
+klee_training/**/run.istats
