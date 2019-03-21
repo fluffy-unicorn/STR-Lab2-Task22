@@ -1,0 +1,14 @@
+26
+16
+Invalid input: 4
+25
+22
+Invalid input: 2
+Invalid input: 5
+16
+Invalid input: 6
+17
+Invalid input: 5
+22
+19
+error_93 Problem16: Problem16/Problem16.c:8: void __VERIFIER_error(int): Assertion `0' failed.
