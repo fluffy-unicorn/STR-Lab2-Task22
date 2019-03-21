@@ -10,3 +10,4 @@ klee_training/**/run.istats
 
 #
 *.zip
+*.bc
