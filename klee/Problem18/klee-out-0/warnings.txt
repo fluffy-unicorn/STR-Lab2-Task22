@@ -1,0 +1,19 @@
+KLEE: WARNING: undefined reference to function: fflush
+KLEE: WARNING: undefined reference to function: fprintf
+KLEE: WARNING: undefined reference to function: printf
+KLEE: WARNING: undefined reference to variable: stderr
+KLEE: WARNING: undefined reference to variable: stdout
+KLEE: WARNING ONCE: calling external: fprintf(23030051427648, 204861312, (ReadLSB w32 0 program)) at /home/klee/lab2/Problem18/Problem18.c:61597
+KLEE: WARNING ONCE: calling external: printf(204689408, 25) at /home/klee/lab2/Problem18/Problem18.c:18235
+KLEE: WARNING ONCE: calling external: fflush(23030051427872) at /home/klee/lab2/Problem18/Problem18.c:18236
+KLEE: WARNING ONCE: skipping fork (memory cap exceeded)
+KLEE: WARNING: killing 5477 states (over memory cap)
+KLEE: WARNING: killing 5213 states (over memory cap)
+KLEE: WARNING: killing 5667 states (over memory cap)
+KLEE: WARNING: killing 5395 states (over memory cap)
+KLEE: WARNING: killing 5183 states (over memory cap)
+KLEE: WARNING: killing 4932 states (over memory cap)
+KLEE: WARNING: killing 4648 states (over memory cap)
+KLEE: WARNING: killing 4424 states (over memory cap)
+KLEE: WARNING: killing 4209 states (over memory cap)
+KLEE: WARNING: killing 4006 states (over memory cap)

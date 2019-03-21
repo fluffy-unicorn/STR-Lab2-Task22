@@ -1,0 +1,4 @@
+KLEE: Using STP solver backend
+KLEE: ERROR: /home/klee/lab2/Problem19/Problem19.c:9: ASSERTION FAIL: 0
+KLEE: HaltTimer invoked
+KLEE: halting execution, dumping remaining states

@@ -1,0 +1,14 @@
+KLEE: Using STP solver backend
+KLEE: ERROR: /home/klee/lab2/Problem16/Problem16.c:9: ASSERTION FAIL: 0
+KLEE: ERROR: /home/klee/lab2/Problem16/Problem16.c:9: ASSERTION FAIL: 0
+KLEE: ERROR: /home/klee/lab2/Problem16/Problem16.c:9: ASSERTION FAIL: 0
+KLEE: ERROR: /home/klee/lab2/Problem16/Problem16.c:9: ASSERTION FAIL: 0
+KLEE: ERROR: /home/klee/lab2/Problem16/Problem16.c:9: ASSERTION FAIL: 0
+KLEE: ERROR: /home/klee/lab2/Problem16/Problem16.c:9: ASSERTION FAIL: 0
+KLEE: ERROR: /home/klee/lab2/Problem16/Problem16.c:9: ASSERTION FAIL: 0
+KLEE: ERROR: /home/klee/lab2/Problem16/Problem16.c:9: ASSERTION FAIL: 0
+KLEE: ERROR: /home/klee/lab2/Problem16/Problem16.c:9: ASSERTION FAIL: 0
+KLEE: ERROR: /home/klee/lab2/Problem16/Problem16.c:9: ASSERTION FAIL: 0
+KLEE: ERROR: /home/klee/lab2/Problem16/Problem16.c:9: ASSERTION FAIL: 0
+KLEE: HaltTimer invoked
+KLEE: halting execution, dumping remaining states

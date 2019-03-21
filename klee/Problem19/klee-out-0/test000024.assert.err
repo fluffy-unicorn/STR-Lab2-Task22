@@ -1,0 +1,9 @@
+Error: ASSERTION FAIL: 0
+File: /home/klee/lab2/Problem19/Problem19.c
+Line: 9
+assembly.ll line: 893
+Stack: 
+	#000000893 in __VERIFIER_error (i=45) at /home/klee/lab2/Problem19/Problem19.c:9
+	#100002158 in errorCheck () at /home/klee/lab2/Problem19/Problem19.c:2487
+	#202577690 in calculate_output (input) at /home/klee/lab2/Problem19/Problem19.c:793377
+	#302577844 in main () at /home/klee/lab2/Problem19/Problem19.c:793395

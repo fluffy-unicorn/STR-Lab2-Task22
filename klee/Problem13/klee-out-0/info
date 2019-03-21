@@ -1,0 +1,22 @@
+klee -only-output-states-covering-new -emit-all-errors --max-time=600s Problem13.bc
+PID: 10772
+Using monotonic steady clock with 1/1000000000s resolution
+Started: 2019-03-16 13:48:06
+BEGIN searcher description
+<InterleavedSearcher> containing 2 searchers:
+RandomPathSearcher
+WeightedRandomSearcher::CoveringNew
+</InterleavedSearcher>
+END searcher description
+Finished: 2019-03-16 13:58:14
+Elapsed: 00:10:08
+KLEE: done: explored paths = 232893
+KLEE: done: avg. constructs per query = 62
+KLEE: done: total queries = 213
+KLEE: done: valid queries = 0
+KLEE: done: invalid queries = 213
+KLEE: done: query cex = 213
+
+KLEE: done: total instructions = 96341460
+KLEE: done: completed paths = 232893
+KLEE: done: generated tests = 348
